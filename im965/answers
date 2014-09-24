@@ -1,0 +1,12 @@
+im965 answers to assignment 3
+-------------------------------
+
+1) The function os.path.abspath is defined in /usr/lib/python2.7/posixpath.py
+
+2) num =! ls ../../etc | wc -w
+
+3) approximately 15.264
+
+4) "x*x" operation was fastest, took only 94.3 nanoseconds
+
+5) My version has 24 magic cell commands
